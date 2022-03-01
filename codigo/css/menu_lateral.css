@@ -1,0 +1,16 @@
+#barraLateral{
+	background: #4dd0e1;
+	color: white;
+	position: -webkit-sticky;
+  	position: sticky;
+  	top: 0
+}
+#barraLateral a{
+	border-bottom: 1px solid white;
+}
+
+#barraLateral a:hover{
+	background: #88ffff;
+}
+
+
